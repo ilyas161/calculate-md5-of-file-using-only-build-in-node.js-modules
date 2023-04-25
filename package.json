@@ -1,0 +1,15 @@
+{
+  "name": "alculate-md5-of-file-using-only-build-in-node.js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ilyas161/cli.git/calculate-md5-of-file-using-only-build-in-node.js-modules.git"
+  },
+  "author": "ilyas",
+  "license": "ISC"
+}
